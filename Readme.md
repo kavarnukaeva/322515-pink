@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Анна Каварнукаева](https://up.htmlacademy.ru/adaptive/15/user/322515).
-* Наставник: `Неизвестно`.
+* Наставник: [Макс Масленко](https://up.htmlacademy.ru/adaptive/15/user/107049)  .
 
 ---
 
